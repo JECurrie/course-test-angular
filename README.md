@@ -1,2 +1,2 @@
-# course-test-angular
+# course-test
 Test repo for coursera
